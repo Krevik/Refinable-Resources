@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "refinable_resources:diamond_leggings_6"
+  },
+  "addition": {
+    "item": "refinable_resources:refined_netherite_ingot_6"
+  },
+  "result": {
+    "item": "refinable_resources:netherite_leggings_6"
+  }
+}

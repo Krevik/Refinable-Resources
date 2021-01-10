@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "refinable_resources:refined_iron_ingot_4"
+    }
+  },
+  "result": {
+    "item": "refinable_resources:iron_pickaxe_4"
+  }
+}

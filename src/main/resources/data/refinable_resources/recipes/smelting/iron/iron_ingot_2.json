@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "refinable_resources:refined_iron_ingot_1"
+  },
+  "result": "refinable_resources:refined_iron_ingot_2",
+  "experience": 0.0,
+  "cookingtime": 800
+}

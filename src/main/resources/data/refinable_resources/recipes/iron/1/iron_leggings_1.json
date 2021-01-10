@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "refinable_resources:refined_iron_ingot_1"
+    }
+  },
+  "result": {
+    "item": "refinable_resources:iron_leggings_1"
+  }
+}

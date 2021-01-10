@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "refinable_resources:refined_diamond_5"
+    }
+  },
+  "result": {
+    "item": "refinable_resources:diamond_sword_5"
+  }
+}

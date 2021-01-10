@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "refinable_resources:refined_gold_ingot_6"
+    }
+  },
+  "result": {
+    "item": "refinable_resources:gold_chestplate_6"
+  }
+}

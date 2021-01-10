@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "refinable_resources:refined_gold_ingot_1"
+    }
+  },
+  "result": {
+    "item": "refinable_resources:gold_hoe_1"
+  }
+}

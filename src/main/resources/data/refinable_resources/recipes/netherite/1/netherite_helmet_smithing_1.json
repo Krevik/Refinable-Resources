@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "refinable_resources:diamond_helmet_1"
+  },
+  "addition": {
+    "item": "refinable_resources:refined_netherite_ingot_1"
+  },
+  "result": {
+    "item": "refinable_resources:netherite_helmet_1"
+  }
+}

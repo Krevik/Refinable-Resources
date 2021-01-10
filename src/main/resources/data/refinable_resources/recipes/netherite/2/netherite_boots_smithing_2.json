@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "refinable_resources:diamond_boots_2"
+  },
+  "addition": {
+    "item": "refinable_resources:refined_netherite_ingot_2"
+  },
+  "result": {
+    "item": "refinable_resources:netherite_boots_2"
+  }
+}

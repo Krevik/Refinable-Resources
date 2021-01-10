@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "refinable_resources:diamond_chestplate_3"
+  },
+  "addition": {
+    "item": "refinable_resources:refined_netherite_ingot_3"
+  },
+  "result": {
+    "item": "refinable_resources:netherite_chestplate_3"
+  }
+}

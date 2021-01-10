@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": "refinable_resources:refined_gold_ingot_1",
+  "experience": 0.0,
+  "cookingtime": 800
+}

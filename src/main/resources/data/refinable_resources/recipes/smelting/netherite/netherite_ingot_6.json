@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "refinable_resources:refined_netherite_ingot_5"
+  },
+  "result": "refinable_resources:refined_netherite_ingot_6",
+  "experience": 0.0,
+  "cookingtime": 800
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "refinable_resources:refined_iron_ingot_5"
+    }
+  },
+  "result": {
+    "item": "refinable_resources:iron_shovel_5"
+  }
+}
