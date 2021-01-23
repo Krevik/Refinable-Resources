@@ -4,7 +4,7 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 license="GPL License"
 [[mods]] #mandatory
 modId="refinable_resources" #mandatory
-version="0.5" #mandatory
+version="0.51" #mandatory
 displayName="Refinable Resources" #mandatory
 logoFile="examplemod.png" #optional
 credits="Kathairis Development Team" #optional
